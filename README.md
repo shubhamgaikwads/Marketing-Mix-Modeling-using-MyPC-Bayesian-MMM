@@ -23,7 +23,7 @@ seaborn
 arviz
 pymc
 
-# result
+# Result:
 
 
 The summary statistics provide information about the posterior distributions of the model parameters. Here's how to interpret the results and understand the impact on revenue:
@@ -44,8 +44,10 @@ The MyPC Bayesian MMM model estimates the effects of TV and search advertising s
 
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request.
 
-# Sources
+# Sources:
+
 Data Source: https://github.com/deejayrusso/Marketing-Mix-Model/blob/main/README.md
+
 Model: https://github.com/pymc-labs/pymc-marketing
 
 
