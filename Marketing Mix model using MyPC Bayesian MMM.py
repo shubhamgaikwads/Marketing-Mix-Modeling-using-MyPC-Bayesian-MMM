@@ -48,7 +48,7 @@ get_ipython().run_line_magic('config', 'InlineBackend.figure_format = "retina"')
 
 
 # Loading the Dataset
-data = pd.read_csv("/Users/shubham/Documents/MMM/mmm.csv")
+data = pd.read_csv("/Documents/MMM/mmm.csv")
 
 
 # In[5]:
