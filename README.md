@@ -3,7 +3,7 @@ This repository demonstrates the use of PyMC-Marketing Bayesian Mix Marketing Mo
 
 # Introduction:
 
-This repository contains code for building a Marketing Mix Model (MMM) using the MyPC Bayesian approach. MMM is a statistical analysis technique that helps marketers understand the impact of various marketing tactics on sales and revenue. In this project, we use Bayesian methods implemented with PyMC to estimate the effects of TV and search advertising spending on revenue.
+This repository contains code for building a Marketing Mix Model (MMM) using the PyMC Bayesian approach. MMM is a statistical analysis technique that helps marketers understand the impact of various marketing tactics on sales and revenue. In this project, we use Bayesian methods implemented with PyMC to estimate the effects of TV and search advertising spending on revenue.
 
 # Installation:
 
@@ -38,7 +38,7 @@ sigma: The mean value of sigma is 20208.776, which represents the standard devia
 
 # Summary:
 
-The MyPC Bayesian MMM model estimates the effects of TV and search advertising spending on revenue. The summary statistics provide information about the posterior distributions of the model parameters. Based on the analysis, increasing search spend by one unit is estimated to have a much larger impact on revenue compared to increasing TV spend by one unit.
+The PyMC Bayesian MMM model estimates the effects of TV and search advertising spending on revenue. The summary statistics provide information about the posterior distributions of the model parameters. Based on the analysis, increasing search spend by one unit is estimated to have a much larger impact on revenue compared to increasing TV spend by one unit.
 
 # Contributing:
 
